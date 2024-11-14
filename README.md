@@ -1,6 +1,6 @@
 ## Hi, I'm Esmeralda!👩🏻‍💻  
 
-✨ I'm a passionate developer with a keen interest in full-stack development 
+✨ I'm a passionate developer with a keen interest in full-stack development  
 🌱 I’m currently learning front and back end technologies  
 👯 Open to collaborating on exciting projects and ideas  
 
