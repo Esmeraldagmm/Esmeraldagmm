@@ -1,7 +1,9 @@
 ## Hello, I'm Esmeralda!👩🏻‍💻  
 
 ✨ Software engineer with a background in cybersecurity
+
 👯 Open to collaborating on exciting projects and open-source contributions
+
 📚 Always exploring new technologies and improving my skills
 
 <!--
