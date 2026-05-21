@@ -1,8 +1,8 @@
-## Hi, I'm Esmeralda!👩🏻‍💻  
+## Hello, I'm Esmeralda!👩🏻‍💻  
 
-✨ I'm a passionate developer with a keen interest in full-stack development  
-🌱 I’m currently learning front and back end technologies  
-👯 Open to collaborating on exciting projects and ideas  
+✨ Software engineer with a background in cybersecurity
+👯 Open to collaborating on exciting projects and open-source contributions
+📚 Always exploring new technologies and improving my skills
 
 <!--
 **Esmeraldagmm/Esmeraldagmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
